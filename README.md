@@ -142,7 +142,7 @@ The library ships with 44 tests that run synthetic knocks, walking, running, fal
 
 ## Sample app
 
-`sample/` shows every gesture live, with a meter, a calibration flow and an event log. Build it with `./gradlew :sample:installDebug`, or download the APK from the latest [CI run](https://github.com/AtharvaLakhe/knock/actions/workflows/ci.yml).
+`sample/` shows every gesture live, with a meter, a calibration flow and an event log. Install `knock-sample.apk` from the [latest release](https://github.com/AtharvaLakhe/knock/releases/latest) to try every gesture on your own phone, or build it with `./gradlew :sample:installDebug`.
 
 <p>
 <img src="docs/counting.png" width="250" alt="Three knocks counted, shown as three filled dots">
